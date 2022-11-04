@@ -8,14 +8,16 @@
 ![img](img/lat1.png)
 
 * berikut outpunya dari `lat1.py`
+
 ![img](img/oplat1.png)
 
 * berikutnya kita buka file `lat2.py` dan masukan sourcecode nya berikut
 ![img](img/lat2.png)
 * dan berikut untuk hasil outputnya
+
 ![img](img/oplat2.png)
 
-3. Sekarang kita akan masuk ke struktur dan kondisi
+1. Sekarang kita akan masuk ke struktur dan kondisi
 pertama buka file `lat3.py` dan masukan source code nya berikut
 ![jmg](img/lat3.png)
 * dan berikut hasil output dari `lat3.py`
@@ -23,6 +25,7 @@ pertama buka file `lat3.py` dan masukan source code nya berikut
 * buka kembali file `lat4.py` kita akan membuat program struktur data, berikut code nya
 ![img](img/lat4.png)
 * dan berikut adalah hsil outputnya
+
 ![img](img/oplat4.png)
 
 Baik sekian untuk tutorial python tentang perulangan dan struktur-kondisi
